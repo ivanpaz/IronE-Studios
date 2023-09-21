@@ -7,7 +7,7 @@ public class ScriptTeste : MonoBehaviour
     
     void Start()
     {
-        Debug.Log("Opa-lala");
+        Debug.Log("Opa-lele");
     }
 
    
